@@ -1,0 +1,6 @@
+0
+size: 1x1
+Time per tree: 10min
+Total time to make: 10min
+Order:
+8,4
